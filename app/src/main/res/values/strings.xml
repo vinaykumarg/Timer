@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="timer1">Timer1</string>
+    <string name="timer2">Timer2</string>
+    <string name="timeup">Time is up!</string>
+</resources>
